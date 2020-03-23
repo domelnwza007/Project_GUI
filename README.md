@@ -11,7 +11,7 @@ https://www.figma.com/file/VTB3MX63ewa3rDYVBlvW5b/Project-UI-MeowToon
 Figma Admin :
 https://www.figma.com/file/fLEjW4ir76vDwfQEcbkNDZ/Project-UI-Admin?node-id=107%3A3
 
-Figma User :
+Figma User Preview :
 https://www.figma.com/proto/VTB3MX63ewa3rDYVBlvW5b/Project-UI-MeowToon?node-id=23%3A3&scaling=scale-down
 
 Figma Admin Preview :
@@ -44,3 +44,15 @@ https://youtu.be/fC2zPw730Os
 2. ผู้เขียน
 3. ผู้แปล
 4. ผู้จัดการ
+
+หลักการในการออกแบบ UI
+1. มีการจัดวาง Font ที่เป็นรูปแบบสอดคล้องกับรูปภาพ และใช้ฟอนต์ในการอ่านเพียงชนิดเดียว เพื่อให้ดูเรียบง่ายและสวยงาม
+2. มีการใช้งาน effect Font ตัวหนาและตัวบาง เพื่อบ่งบอกถึงหัวข้อสำคัญ และความสำคัญรอง
+3. การใช้ icon ที่สื่อความหมาย
+4. การจัดวางที่มีความสมดุล สมมาตร และสม่ำเสมอ
+5. เมนูที่งายต่อการใช้งาน
+6. ระบบนำทางที่ไม่มีความซับซ้อน
+
+สมาชิกกลุ่ม
+1. นายจักรกฤษ อัมพุธ 61022359
+2. นายวีรภัทร ศตกาญจน์ 61022393
